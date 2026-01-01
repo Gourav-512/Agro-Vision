@@ -19,24 +19,23 @@
 
 <!-- Dashboard Overview ka screenshot yahan lagayein -->
 ### 📱 Dashboard Overview
-![Dashboard Overview]<img width="367" height="673" alt="image" src="https://github.com/user-attachments/assets/8a809156-8594-4f87-82d2-184f792f3905" />
-<img width="359" height="714" alt="image" src="https://github.com/user-attachments/assets/2a6a4999-c6aa-4329-b83d-f41e528be061" />
-<img width="368" height="671" alt="image" src="https://github.com/user-attachments/assets/1512a894-962d-4ba1-b2b9-4de089a175ef" />
+![Dashboard Overview]
+<img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/2af8b7dd-80ce-4f7b-802b-447dfaa7ffa0" />
+
 
 )
 *Sari zaroori jaankari ek hi screen par.*
 
 ### 🛰️ Satellite Analysis
-![Analysis View](<img width="357" height="691" alt="image" src="https://github.com/user-attachments/assets/779630f4-361e-421b-b8c3-b648a89ed35a" />
+<img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/c38a9285-bd62-45ea-8694-6fbf78f00554" />
+
 )
 *Fasal ki health ka digital hisaab-kitab.*
 
 ### 🌦️ Weather Details
-![Weather Forecast](<img width="371" height="683" alt="image" src="https://github.com/user-attachments/assets/351a4806-7ac6-478d-8105-50a5f5802475" />
-<img width="374" height="681" alt="image" src="https://github.com/user-attachments/assets/ac9e82ce-fd25-403e-bd49-665b234293a3" />
-<img width="362" height="687" alt="image" src="https://github.com/user-attachments/assets/29f0f996-e4a2-4d9c-a557-b3bba86c41d2" />
-
+<img width="1919" height="883" alt="image" src="https://github.com/user-attachments/assets/de07c2d5-8ac2-46d4-912e-5f9a861fab24" />
 )
+
 *Agli baarish ki taiyari pehle se.*
 
 ### 🌦️ AI Insights
