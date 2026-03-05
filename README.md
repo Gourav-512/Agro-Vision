@@ -94,3 +94,5 @@ This project is open-source. Feel free to contribute and help Indian farmers gro
 
 ---
 *Developed with ❤️ for the Indian Farming Community.*
+___
+this project was insane
