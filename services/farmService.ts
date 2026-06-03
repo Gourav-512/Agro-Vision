@@ -23,6 +23,8 @@ const generateHistoricalData = (): HistoricalDataPoint[] => {
     return data;
 };
 
+
+
 export const farmService = {
     // Simulates fetching live, fluctuating data from sensors
     getFarmStatus: (): Promise<FarmStatus> => {
