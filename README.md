@@ -1,7 +1,6 @@
 # 🌱 Agri-Insight: Smart Kheti ka Digital Saathi
 
 **Agri-Insight** ek advance, multilingual dashboard hai jo khas taur par hamare Indian farmers ke liye design kiya gaya hai. Iska maqsad hai kheti (farming) ko data aur AI ki power se aur bhi behtar aur asaan banana. 🚀
-
 ---
 
 ```
