@@ -13,6 +13,7 @@ const getAISuggestions = async (
         hi: 'Hindi',
         mr: 'Marathi'
     };
+    
 
     let locationContext = '';
     if (coordinates) {
