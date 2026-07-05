@@ -18,6 +18,7 @@ const MapComponent: React.FC<MapComponentProps> = ({ mapType, locationName, back
     const { t, language } = useI18n();
     const mapRef = useRef<HTMLDivElement>(null);
 
+    
     // Farm Map State
     const [activeTool, setActiveTool] = useState<DrawTool>('none');
     const [isInteracting, setIsInteracting] = useState(false); // For drag-drawing
