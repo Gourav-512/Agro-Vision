@@ -1,7 +1,7 @@
 import React from 'react';
 
 interface AirPressureGaugeProps {
-    value: number; // in hPa
+    value: number; // in h
 }
 const AirPressureGauge: React.FC<AirPressureGaugeProps> = ({ value }) => {
     const minPressure = 980;
