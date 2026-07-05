@@ -7,7 +7,7 @@ import type { Language } from '../types';
 
 const LanguageSwitcher: React.FC = () => {
     const { language, setLanguage } = useI18n();
-    const [isOpen, setIsOpen] = useState(false);
+    const [isOpen, setIsOpen] = useState(false)
     const dropdownRef = useRef<HTMLDivElement>(null);
 
     const handleLanguageChange = (langId: Language) => {
