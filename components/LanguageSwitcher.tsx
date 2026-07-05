@@ -22,8 +22,7 @@ const LanguageSwitcher: React.FC = () => {
             }
         };
         document.addEventListener('mousedown', handleClickOutside);
-        return 
-            () => {
+        return () => {
             document.removeEventListener('mousedown', handleClickOutside);
         };
     }, []);
