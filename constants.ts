@@ -8,6 +8,7 @@ export const LANGUAGES: { id: Language, name: string }[] = [
     { id: 'mr', name: 'मराठी' },
 ];
 
+
 export const TABS: Tab[] = [
     { id: 'overview', labelKey: 'overview', icon: LayoutDashboardIcon },
     { id: 'trends', labelKey: 'trends', icon: LineChartIcon },
