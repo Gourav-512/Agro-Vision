@@ -14,6 +14,7 @@ export const TABS: Tab[] = [
     { id: 'trends', labelKey: 'trends', icon: LineChartIcon },
     { id: 'weather', labelKey: 'weather', icon: CloudIcon },
     { id: 'ai-insights', labelKey: 'aiInsights', icon: SparklesIcon },
+    
 ];
 
 export const INDIAN_CITIES = [
