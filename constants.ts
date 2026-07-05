@@ -6,7 +6,7 @@ export const LANGUAGES: { id: Language, name: string }[] = [
     { id: 'en', name: 'English' },
     { id: 'hi', name: 'हिन्दी' },
     { id: 'mr', name: 'मराठी' },
-    { id: 'pnb'
+    { id: 'pnb' nane:
 ];
 
 export const TABS: Tab[] = [
