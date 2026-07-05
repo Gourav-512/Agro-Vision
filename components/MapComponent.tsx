@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import type { MapType, FarmStatus, Rectangle } from '../types';
 import { useI18n } from '../hooks/useI18n';
 import { geminiService } from '../services/geminiService';
-import { MapPinIcon, ScanIcon, CheckCircleIcon, SquareIcon, PolygonIcon } from './icons/Icons';
+import { PinIcon, ScanIcon, CheckCircleIcon, SquareIcon, PolygonIcon } from './icons/Icons';
 
 interface Point { x: number; y: number; }
 type DrawTool = 'polygon' | 'rectangle' | 'none';
