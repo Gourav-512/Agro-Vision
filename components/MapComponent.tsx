@@ -13,7 +13,6 @@ interface MapComponentProps {
     backgroundKey: string;
     onAnalysisComplete?: (status: FarmStatus) => void;
 }
-
 const MapComponent: React.FC<MapComponentProps> = ({ mapType, locationName, backgroundKey, onAnalysisComplete }) => {
     const { t, language } = useI18n();
     const mapRef = useRef<HTMLDivElement>(null);
