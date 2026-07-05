@@ -13,7 +13,7 @@ A ISRO HACKTHON PROJECT
 
 - **🌍 Multilingual Support**: Ab app chalaiye apni pasand ki bhasha mein - **English, हिन्दी (Hindi), aur मराठी (Marathi)**. No language barrier!
 - **🛰️ Satellite Image Analysis**: Bas apne khet ki satellite image upload karein aur Gemini AI aapko batayega ki fasal (crops) ki health kaisi hai.
-- **📊 NDVI & Soil Moisture Metrics**: Live data dekhein ki mitti mein nami (moisture) kitni hai aur podhon ka vikas (NDVI) kaisa ho raha hai.
+- **📊 NDVI & Soil Moisture Metrical: Live data dekhein ki mitti mein nami (moisture) kitni hai aur podhon ka vikas (NDVI) kaisa ho raha hai.
 - **🌦️ AI-Powered Weather Forecast**: Sirf temperature nahi, balki Gemini AI se paaiye detailed analysis ki aage aane wala mausam aapki kheti par kya asar dalega.
 - **🤖 Agri Assistant (Chat)**: Koi bhi sawal ho? Hamara AI-powered Agri Assistant 24/7 haazir hai aapke sawalon ke jawab dene ke liye.
 - **📈 Historical Trends**: Pichle 30 dino ka data dekhein aur samjhein ki khet ki health kaise badal rahi hai.
