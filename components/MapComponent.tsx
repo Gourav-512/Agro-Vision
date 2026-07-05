@@ -5,7 +5,7 @@ import { geminiService } from '../services/geminiService';
 import { MapPinIcon, ScanIcon, CheckCircleIcon, SquareIcon, PolygonIcon } from './icons/Icons';
 
 interface Point { x: number; y: number; }
-type DrawTool = 'polygon' | 'rectangle' | 'none';
+type DrawTool = 'polygon' | 'rectangle' | 'none;
 
 interface MapComponentProps {
     mapType: MapType;
