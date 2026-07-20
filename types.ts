@@ -20,7 +20,7 @@ export interface HistoricalDataPoint {
 }
 export type WindDirection = 'N' | 'NE' | 'E' | 'SE' | 'S' | 'SW' | 'W' | 'NW';
 
-export type WeatherCondition = 'Sunny' | 'Mostly Sunny' | 'Partly Cloudy' | 'Cloudy' | 'Rain' | 'Storm' | 'Wind';
+export type WeatherCondition = 'Sunny' | 'Mostly Sunny' | 'Partly Cloudy' | 'Cloudy' | 'Rain' | 'Storm' | 'Windy';
 
 export interface CurrentWeather {
     temperature_celsius: number;
