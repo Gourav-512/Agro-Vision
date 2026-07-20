@@ -18,7 +18,7 @@ export interface HistoricalDataPoint {
     ndvi: number;
     soil_moisture: number;
 }
-export type WindDirection = 'N' | 'NE' | 'E' | 'SE' | 'S' | 'SW' | 'W' | 'N';
+export type WindDirection = 'N' | 'NE' | 'E' | 'SE' | 'S' | 'SW' | 'W' | 'NW';
 
 export type WeatherCondition = 'Sunny' | 'Mostly Sunny' | 'Partly Cloudy' | 'Cloudy' | 'Rain' | 'Storm' | 'Windy';
 
