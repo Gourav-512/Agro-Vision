@@ -1,7 +1,6 @@
 import type { ComponentType } from 'react';
 
 export type Language = 'en' | 'hi' | 'mr';
-
 export type TabID = 'overview' | 'trends' | 'weather' | 'ai-insights';
 
 export interface Tab {
